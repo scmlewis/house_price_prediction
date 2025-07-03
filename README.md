@@ -1,7 +1,7 @@
 ## House Price Prediction in Ames, Iowa
 A predictive model for house prices in Ames, Iowa, using Python, scikit-learn, and statsmodels. Navigate to the report document in the report folder for details.
 
-Overview
+## Overview
 
 This project develops a predictive model for house prices in Ames, Iowa, to assist a real estate company in purchasing, renovating, and reselling properties. The model employs exploratory data analysis (EDA), preprocessing, and regression techniques (multiple linear regression, quadratic regression, and LASSO regression) to achieve an Adjusted R-squared of 80.0% on the test set. Navigate to the report document in `report` folder for details.
 
